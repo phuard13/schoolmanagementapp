@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/school.jpg);
+    background-position: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #fff
+}
+.signin{
+    background-color: rgb(176,224,230);
+    background-blend-mode:;
+    padding: 40px;
+    width: 287px; 
+    margin: auto;
+    margin-top: 80px;
+    height: 450px;
+    margin-left: 500px;
+}
+.forgot {
+    margin-right: 0px;
+    font-size: 13px;
+}
+.form{
+    width: 240px;
+    text-align: center;
+}
+input{
+    width: 210px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff ;
+    font-size: 16px;
+    font-weight: 200px; 
+    padding: 10px 0;
+    transition:  border 0.5s;
+    outline: none;
+    color: #fff;
+}
+input[type=button]{
+    border: none;
+    width: 200px;
+    background: #fff;
+    color: #000;
+    font-size: 16px;
+    line-height: 15px;
+    padding: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.input[type=button]:hover {
+    color: #fff;
+    background-color: black;
+}
+h2{
+    color: #fff;
+}
+a{
+    color: yellow;
+    text-decoration: blink;
+}
+a:hover{
+    color: rgba(27, 110, 143, 0.808);
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

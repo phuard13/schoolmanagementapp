@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/school.jpg);
+    background-position: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #fff
+}
+.signin{
+    background-color: rgba(44, 62, 80, 0.7);
+    padding: 40px;
+    width: 287px; 
+    margin: auto;
+    margin-top: 80px;
+    height: 410px;
+    margin-left: 500px;
+}
+.forgot {
+    margin-right: 0px;
+    font-size: 13px;
+}

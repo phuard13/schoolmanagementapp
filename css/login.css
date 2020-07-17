@@ -10,11 +10,10 @@ body{
     font-size: 15px;
     font-weight: 400;
     line-height: 1.7;
-    color: #fff
+    color: #fff;
 }
 .signin{
-    background-color: rgb(176,224,230);
-    background-blend-mode:;
+    background-color: rgba(176,224,230);
     padding: 40px;
     width: 287px; 
     margin: auto;
